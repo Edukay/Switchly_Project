@@ -12,4 +12,6 @@ document.getElementById('contactForm').addEventListener('submit', function(e) {
         // Reset the form
         document.getElementById('contactForm').reset();
     }
+
+    document.getElementById( 'WELCOME' )
 });
