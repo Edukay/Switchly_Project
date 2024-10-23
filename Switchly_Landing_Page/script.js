@@ -13,5 +13,5 @@ document.getElementById('contactForm').addEventListener('submit', function(e) {
         document.getElementById('contactForm').reset();
     }
 
-    document.getElementById( 'WELCOME' )
+    document.getElementById( 'WELCOME' ) 
 });
