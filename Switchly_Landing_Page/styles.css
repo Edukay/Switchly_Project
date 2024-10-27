@@ -37,10 +37,11 @@
     font-size: medium;
     color: bisque;
     
+    
 }
 
-.navbar ul li a.hover{
-    color: red;
+.navbar ul li a .hover{
+    hov: red;
 }
 
 .header{
@@ -49,10 +50,13 @@
     margin-left: 2rem;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
-    
     font-size: small;
     
 
+}
+
+.header img{
+    width: 100%;
 }
 
 
